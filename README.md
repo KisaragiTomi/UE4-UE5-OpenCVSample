@@ -1,2 +1,2 @@
 # UE4-UE5-OpenCVSample
-Simple OpencV example
+一个炒鸡简单的OpenCV配置
